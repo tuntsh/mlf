@@ -22,6 +22,7 @@ logger = logging.getLogger(__name__)
 
 #this is change
 #this is change1
+#this is change 3(server)
 
 ################# Artist ###################
 def crawlArtist(driver, doc_id, link):
