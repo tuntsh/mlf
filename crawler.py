@@ -20,6 +20,8 @@ import re
 
 logger = logging.getLogger(__name__)
 
+#this is change
+
 ################# Artist ###################
 def crawlArtist(driver, doc_id, link):
 	logger.info('Downloaded %s', link)
